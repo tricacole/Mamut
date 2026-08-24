@@ -1,7 +1,5 @@
 <img width="100" alt="Mamut" src="https://github.com/user-attachments/assets/a05555fd-fbc5-4b08-b03f-1f6d2b8cb46d" />
 
-<br><br><br>
-
 # Mamut
 
 Mamut allows you to export your owned League of Legends skins and copy the collection directly to your clipboard.
